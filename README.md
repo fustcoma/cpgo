@@ -10,6 +10,18 @@ The project is currently **under development** and is in an early **Beta** stage
 
 ---
 
+## 📸 Screenshots
+
+![Lobby](screenshots/lobby.png)
+
+![Bomb Site](screenshots/bomb-site.png)
+
+![Gameplay](screenshots/gameplay.png)
+
+(this photos are not in-game, they're are only for testing)
+
+---
+
 ## 🚧 Development Status
 
 **Version:** `v0.1.0-beta`
@@ -45,13 +57,16 @@ Some of the planned and existing features include:
 
 ### 🔴 Required
 
-* **[UNOFFICIAL] TaCZ Refabricated** — Required for the weapon system.
-* **Guns++** — Required for the weapon system.
-* **Essential Mod** — Required to play with other players.
-* **Forge Config API Port** — Required library for the mods.
-* **Collective** — Required library for the mods.
-* **Framework** — Required library for the mods.
-* **Lithium (Fabric/NeoForge)** — Required library for the mods.
+* [**[UNOFFICIAL] TaCZ Refabricated**](https://www.curseforge.com/minecraft/mc-mods/unofficial-tacz-refabricated) — Required for the weapon system.
+* [**Guns++**]() — Required for the weapon system.
+* [**Essential Mod**](https://www.curseforge.com/minecraft/mc-mods/essential-mod) — Required to play with other players.
+
+### 🧩 Required Dependencies
+
+* [**Forge Config API Port**](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port)
+* [**Collective**](https://www.curseforge.com/minecraft/mc-mods/collective)
+* [**Framework**](https://www.curseforge.com/minecraft/mc-mods/framework)
+* [**Lithium** ](https://www.curseforge.com/minecraft/mc-mods/lithium)
 
 ### 🟢 Optional
 
@@ -66,7 +81,7 @@ Some of the planned and existing features include:
 
 * **Minecraft:** `26.2`
 * **Mod Loader:** Fabric
-* **Fabric Loader:** `0.158.0`
+* **Fabric Loader:** `0.158.0+26.2`
 
 Make sure you use the correct Minecraft and Fabric versions required by the project.
 
@@ -91,6 +106,8 @@ If you are not using CurseForge:
 5. Download and install the CS:GO in Minecraft world.
 6. Open the world using the Fabric profile.
 7. Enjoy! 🎯
+
+
 
 ---
 
