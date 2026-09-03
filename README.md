@@ -1,6 +1,8 @@
-# 🎯 CS:GO in Minecraft
+# 🎯 Counter Presence: Global Offensive
 
 A **Counter-Strike: Global Offensive inspired game mode recreated in Minecraft**, using command blocks and Fabric mods.
+
+This repository only includes the **game map**. To play **CP:GO**, you will also need to download and install the required mods listed below.
 
 The project is currently **under development** and is in an early **Beta** stage.
 
