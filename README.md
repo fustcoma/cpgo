@@ -18,7 +18,7 @@ The project is currently **under development** and is in an early **Beta** stage
 </p>
 
 <p align="center">
-  <img src="screenshots/bomb-site.png" width="700">
+  <img src="screenshots/bomb-site.png" width="400">
 </p>
 
 (this photos are not in-game, they're are only for testing)
