@@ -43,14 +43,14 @@ The game uses **command blocks** to handle most of the gameplay systems, while F
 
 Some of the planned and existing features include:
 
-* 🔫 Weapon system
-* 💣 Bomb system
-* ⏱️ Round countdown
-* 👥 Team-based gameplay
-* 🏆 Round objectives
-* 🗺️ Custom map
-* ⚙️ Command block systems
-* 🔧 More features currently under development
+* Weapon system
+* Bomb system
+* Round countdown
+* Team-based gameplay
+* Round objectives
+* Custom map
+* Command block systems
+* More features currently under development
 
 ---
 
