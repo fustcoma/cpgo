@@ -4,9 +4,11 @@ A **Counter-Strike: Global Offensive inspired game mode recreated in Minecraft**
 
 This repository only includes the **game map**. To play **CP:GO**, you will also need to download and install the required mods listed below.
 
-The project is currently **under development** and is in an early **Beta** stage.
+**Version:** `v0.1.0-beta`
 
-> ⚠️ **This is a Beta version. The project is publicly available for testing, but it is still under development.**
+⚠ This is an early testing version and many features are still being developed, changed, or improved.
+
+The project is publicly available, but you may encounter bugs, unfinished features, balancing issues, or other problems.
 
 ---
 
@@ -30,20 +32,6 @@ The project is currently **under development** and is in an early **Beta** stage
   <img src="screenshots/bomb-site.png" width="400">
   <img src="screenshots/bomb-site2.png" width="400">
 </p>
-
-(this photos are not in-game, they're are only for testing)
-
----
-
-## Development Status
-
-**Version:** `v0.1.0-beta`
-
-**Status:** **Beta — Under Development**
-
-This is an early testing version and many features are still being developed, changed, or improved.
-
-The project is publicly available, but you may encounter bugs, unfinished features, balancing issues, or other problems.
 
 ---
 
@@ -120,28 +108,7 @@ If you are not using CurseForge:
 6. Open the world using the Fabric profile.
 7. Enjoy!
 
-
-
 ---
-
-## ⚠ Beta Notice
-
-This project is currently in **Beta** and is **not finished**.
-
-Things may change significantly between versions, including:
-
-* Gameplay mechanics
-* Weapons
-* Maps
-* Command block systems
-* Balance
-* Required mods
-* Configuration
-
-If you find a bug or have a suggestion, please report it to the developer.
-
----
-
 ## License
 
 This project is published under the **MIT License**.
