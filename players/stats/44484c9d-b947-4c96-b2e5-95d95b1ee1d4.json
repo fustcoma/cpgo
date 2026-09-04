@@ -1,7 +1,7 @@
 {
   "stats": {
     "minecraft:used": {
-      "minecraft:acacia_button": 7,
+      "minecraft:acacia_button": 8,
       "tacz:statue": 1,
       "minecraft:white_terracotta": 3,
       "minecraft:shield": 18,
@@ -42,35 +42,35 @@
       "tacz:target": 5
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 23494,
-      "minecraft:leave_game": 23,
-      "minecraft:damage_taken": 47755,
+      "minecraft:time_since_rest": 3629,
+      "minecraft:leave_game": 24,
+      "minecraft:damage_taken": 48778,
       "minecraft:mob_kills": 7,
-      "minecraft:time_since_death": 23492,
+      "minecraft:time_since_death": 3628,
       "minecraft:open_enderchest": 12,
-      "minecraft:total_world_time": 1017695,
+      "minecraft:total_world_time": 1042440,
       "minecraft:swim_one_cm": 1339,
-      "minecraft:crouch_one_cm": 56537,
-      "minecraft:deaths": 115,
+      "minecraft:crouch_one_cm": 56707,
+      "minecraft:deaths": 118,
       "minecraft:climb_one_cm": 321,
       "minecraft:player_kills": 82,
       "minecraft:damage_blocked_by_shield": 1172,
       "minecraft:damage_resisted": 162,
-      "minecraft:walk_one_cm": 1215064,
+      "minecraft:walk_one_cm": 1229877,
       "minecraft:horse_one_cm": 32345,
       "minecraft:walk_under_water_one_cm": 7282,
-      "minecraft:play_time": 934683,
-      "minecraft:damage_dealt": 5136,
-      "minecraft:jump": 5504,
+      "minecraft:play_time": 959410,
+      "minecraft:damage_dealt": 5281,
+      "minecraft:jump": 5658,
       "minecraft:drop": 23,
       "minecraft:bell_ring": 7,
-      "minecraft:sprint_one_cm": 506357,
-      "minecraft:open_chest": 116,
-      "minecraft:fall_one_cm": 88000,
-      "minecraft:fly_one_cm": 3953959,
+      "minecraft:sprint_one_cm": 522487,
+      "minecraft:open_chest": 118,
+      "minecraft:fall_one_cm": 88895,
+      "minecraft:fly_one_cm": 3989892,
       "minecraft:interact_with_anvil": 2,
       "minecraft:walk_on_water_one_cm": 9522,
-      "minecraft:sneak_time": 32501
+      "minecraft:sneak_time": 32717
     },
     "minecraft:dropped": {
       "lrtactical:throwable": 1,
@@ -105,7 +105,7 @@
       "minecraft:wheat_seeds": 12,
       "minecraft:chain_command_block": 1,
       "minecraft:tipped_arrow": 1,
-      "minecraft:mangrove_sign": 25,
+      "minecraft:mangrove_sign": 31,
       "minecraft:acacia_button": 13,
       "minecraft:cooked_beef": 5,
       "minecraft:oak_planks": 16,
@@ -129,7 +129,7 @@
       "minecraft:beetroot": 1
     },
     "minecraft:killed_by": {
-      "minecraft:player": 114
+      "minecraft:player": 117
     },
     "minecraft:mined": {
       "minecraft:redstone_wire": 1,
