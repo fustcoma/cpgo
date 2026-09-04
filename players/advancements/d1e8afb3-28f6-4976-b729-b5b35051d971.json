@@ -1703,6 +1703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2026-09-03 11:23:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2026-09-03 11:23:45 +0200"
@@ -1712,12 +1718,6 @@
   "minecraft:recipes/misc/tipped_arrow": {
     "criteria": {
       "has_lingering_potion": "2026-09-03 11:53:40 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_glazed_terracotta": {
-    "criteria": {
-      "has_green_terracotta": "2026-09-03 11:23:03 +0200"
     },
     "done": true
   },
