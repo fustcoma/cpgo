@@ -43,35 +43,35 @@
       "tacz:target": 5
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 1231,
-      "minecraft:leave_game": 26,
-      "minecraft:damage_taken": 52707,
+      "minecraft:time_since_rest": 122,
+      "minecraft:leave_game": 27,
+      "minecraft:damage_taken": 56839,
       "minecraft:mob_kills": 7,
-      "minecraft:time_since_death": 1230,
+      "minecraft:time_since_death": 120,
       "minecraft:open_enderchest": 12,
-      "minecraft:total_world_time": 1126592,
+      "minecraft:total_world_time": 1171158,
       "minecraft:swim_one_cm": 1339,
-      "minecraft:crouch_one_cm": 69706,
-      "minecraft:deaths": 128,
+      "minecraft:crouch_one_cm": 77128,
+      "minecraft:deaths": 142,
       "minecraft:climb_one_cm": 321,
-      "minecraft:player_kills": 94,
+      "minecraft:player_kills": 95,
       "minecraft:damage_blocked_by_shield": 1172,
       "minecraft:damage_resisted": 599,
-      "minecraft:walk_one_cm": 1362344,
+      "minecraft:walk_one_cm": 1401918,
       "minecraft:horse_one_cm": 32345,
       "minecraft:walk_under_water_one_cm": 7282,
-      "minecraft:play_time": 1040505,
-      "minecraft:damage_dealt": 5941,
-      "minecraft:jump": 6196,
+      "minecraft:play_time": 1085056,
+      "minecraft:damage_dealt": 5971,
+      "minecraft:jump": 6321,
       "minecraft:drop": 26,
       "minecraft:bell_ring": 7,
-      "minecraft:sprint_one_cm": 580793,
-      "minecraft:open_chest": 126,
-      "minecraft:fall_one_cm": 99827,
-      "minecraft:fly_one_cm": 4153169,
+      "minecraft:sprint_one_cm": 594060,
+      "minecraft:open_chest": 130,
+      "minecraft:fall_one_cm": 106741,
+      "minecraft:fly_one_cm": 4174884,
       "minecraft:interact_with_anvil": 2,
       "minecraft:walk_on_water_one_cm": 9522,
-      "minecraft:sneak_time": 39608
+      "minecraft:sneak_time": 43120
     },
     "minecraft:dropped": {
       "minecraft:acacia_button": 2,
@@ -132,11 +132,14 @@
       "minecraft:beetroot": 1
     },
     "minecraft:killed_by": {
-      "minecraft:player": 127
+      "minecraft:player": 141
     },
     "minecraft:mined": {
       "minecraft:redstone_wire": 1,
       "minecraft:tnt": 3
+    },
+    "minecraft:broken": {
+      "minecraft:leather_helmet": 1
     },
     "minecraft:killed": {
       "minecraft:horse": 1,
@@ -144,7 +147,7 @@
       "minecraft:rabbit": 1,
       "minecraft:pig": 2,
       "minecraft:villager": 2,
-      "minecraft:player": 101
+      "minecraft:player": 102
     }
   },
   "DataVersion": 4903

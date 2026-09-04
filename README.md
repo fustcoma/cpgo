@@ -94,7 +94,7 @@ Make sure you use the correct Minecraft and Fabric versions required by the proj
 
 The recommended way to install the project is through the **CurseForge modpack**, which will include the required mods.
 
-**Not available yet.**
+https://www.curseforge.com/minecraft/share/nyDBmYEI (temporary link)
 
 ### Manual Installation
 
