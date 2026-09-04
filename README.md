@@ -1,4 +1,4 @@
-# 🎯 Counter Presence: Global Offensive
+# Counter Presence: Global Offensive
 
 A **Counter-Strike: Global Offensive inspired game mode recreated in Minecraft**, using command blocks and Fabric mods.
 
@@ -10,7 +10,7 @@ The project is currently **under development** and is in an early **Beta** stage
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="screenshots/lobby.png" width="400">
@@ -25,11 +25,11 @@ The project is currently **under development** and is in an early **Beta** stage
 
 ---
 
-## 🚧 Development Status
+## Development Status
 
 **Version:** `v0.1.0-beta`
 
-**Status:** 🟡 **Beta — Under Development**
+**Status:** **Beta — Under Development**
 
 This is an early testing version and many features are still being developed, changed, or improved.
 
@@ -37,7 +37,7 @@ The project is publicly available, but you may encounter bugs, unfinished featur
 
 ---
 
-## 🎮 About the Project
+## About the Project
 
 The goal of this project is to recreate the classic **CS:GO-style gameplay experience inside Minecraft**.
 
@@ -56,22 +56,22 @@ Some of the planned and existing features include:
 
 ---
 
-## 🧩 Required Mods
+## Required Mods
 
-### 🔴 Required
+### Required
 
 * [**[UNOFFICIAL] TaCZ Refabricated**](https://www.curseforge.com/minecraft/mc-mods/unofficial-tacz-refabricated) — Required for the weapon system.
 * [**Guns++**]() — Required for the weapon system.
 * [**Essential Mod**](https://www.curseforge.com/minecraft/mc-mods/essential-mod) — Required to play with other players.
 
-### 🧩 Required Dependencies
+### Required Dependencies
 
 * [**Forge Config API Port**](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port)
 * [**Collective**](https://www.curseforge.com/minecraft/mc-mods/collective)
 * [**Framework**](https://www.curseforge.com/minecraft/mc-mods/framework)
 * [**Lithium** ](https://www.curseforge.com/minecraft/mc-mods/lithium)
 
-### 🟢 Optional
+### Optional
 
 * **Just Enough Items (JEI)** — Not required to play. Recommended for easier access to item information and recipes.
 * **Not Enough Animations** — Not required to play. Recommended for better animations.
@@ -80,7 +80,7 @@ Some of the planned and existing features include:
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 * **Minecraft:** `26.2`
 * **Mod Loader:** Fabric
@@ -90,7 +90,7 @@ Make sure you use the correct Minecraft and Fabric versions required by the proj
 
 ---
 
-## 📥 Installation
+## Installation
 
 ### CurseForge
 
@@ -108,13 +108,13 @@ If you are not using CurseForge:
 4. Place the `.jar` files inside your Minecraft `mods` folder.
 5. Download and install the CS:GO in Minecraft world.
 6. Open the world using the Fabric profile.
-7. Enjoy! 🎯
+7. Enjoy!
 
 
 
 ---
 
-## ⚠️ Beta Notice
+## ⚠ Beta Notice
 
 This project is currently in **Beta** and is **not finished**.
 
@@ -132,13 +132,13 @@ If you find a bug or have a suggestion, please report it to the developer.
 
 ---
 
-## 📜 License
+## License
 
 This project is published under the **MIT License**.
 
 ---
 
-## 🎯 Credits
+## Credits
 
 Created by **fustcoma & SoyOwen**.
 
