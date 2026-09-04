@@ -14,11 +14,21 @@ The project is currently **under development** and is in an early **Beta** stage
 
 <p align="center">
   <img src="screenshots/lobby.png" width="400">
+</p>
+
+<p align="center">
   <img src="screenshots/gameplay.png" width="400">
+  <img src="screenshots/gameplay2.png" width="400">
+</p>
+
+<p align="center">
+  <img src="screenshots/gameplay3.png" width="400">
+  <img src="screenshots/gameplay4.png" width="400">
 </p>
 
 <p align="center">
   <img src="screenshots/bomb-site.png" width="400">
+  <img src="screenshots/bomb-site2.png" width="400">
 </p>
 
 (this photos are not in-game, they're are only for testing)

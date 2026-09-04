@@ -1,7 +1,7 @@
 {
   "stats": {
     "minecraft:used": {
-      "minecraft:acacia_button": 8,
+      "minecraft:acacia_button": 10,
       "tacz:statue": 1,
       "minecraft:white_terracotta": 3,
       "minecraft:shield": 18,
@@ -28,6 +28,7 @@
       "minecraft:redstone": 4,
       "minecraft:glow_ink_sac": 2,
       "minecraft:mace": 6,
+      "minecraft:oak_log": 1,
       "minecraft:cobblestone": 2,
       "minecraft:oak_stairs": 11,
       "minecraft:cooked_beef": 2,
@@ -42,35 +43,35 @@
       "tacz:target": 5
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 3629,
-      "minecraft:leave_game": 24,
-      "minecraft:damage_taken": 48778,
+      "minecraft:time_since_rest": 23205,
+      "minecraft:leave_game": 25,
+      "minecraft:damage_taken": 49730,
       "minecraft:mob_kills": 7,
-      "minecraft:time_since_death": 3628,
+      "minecraft:time_since_death": 23204,
       "minecraft:open_enderchest": 12,
-      "minecraft:total_world_time": 1042440,
+      "minecraft:total_world_time": 1084893,
       "minecraft:swim_one_cm": 1339,
-      "minecraft:crouch_one_cm": 56707,
-      "minecraft:deaths": 118,
+      "minecraft:crouch_one_cm": 59307,
+      "minecraft:deaths": 119,
       "minecraft:climb_one_cm": 321,
-      "minecraft:player_kills": 82,
+      "minecraft:player_kills": 86,
       "minecraft:damage_blocked_by_shield": 1172,
       "minecraft:damage_resisted": 162,
-      "minecraft:walk_one_cm": 1229877,
+      "minecraft:walk_one_cm": 1287717,
       "minecraft:horse_one_cm": 32345,
       "minecraft:walk_under_water_one_cm": 7282,
-      "minecraft:play_time": 959410,
-      "minecraft:damage_dealt": 5281,
-      "minecraft:jump": 5658,
-      "minecraft:drop": 23,
+      "minecraft:play_time": 1001847,
+      "minecraft:damage_dealt": 5941,
+      "minecraft:jump": 5970,
+      "minecraft:drop": 25,
       "minecraft:bell_ring": 7,
-      "minecraft:sprint_one_cm": 522487,
-      "minecraft:open_chest": 118,
-      "minecraft:fall_one_cm": 88895,
-      "minecraft:fly_one_cm": 3989892,
+      "minecraft:sprint_one_cm": 550583,
+      "minecraft:open_chest": 124,
+      "minecraft:fall_one_cm": 91388,
+      "minecraft:fly_one_cm": 4072606,
       "minecraft:interact_with_anvil": 2,
       "minecraft:walk_on_water_one_cm": 9522,
-      "minecraft:sneak_time": 32717
+      "minecraft:sneak_time": 35750
     },
     "minecraft:dropped": {
       "lrtactical:throwable": 1,
@@ -80,7 +81,7 @@
       "minecraft:command_block": 1,
       "minecraft:beetroot": 1,
       "minecraft:wheat": 1,
-      "tacz:modern_kinetic_gun": 6,
+      "tacz:modern_kinetic_gun": 8,
       "minecraft:cooked_beef": 1,
       "minecraft:diamond_spear": 1,
       "minecraft:string": 2,
@@ -105,8 +106,8 @@
       "minecraft:wheat_seeds": 12,
       "minecraft:chain_command_block": 1,
       "minecraft:tipped_arrow": 1,
-      "minecraft:mangrove_sign": 31,
-      "minecraft:acacia_button": 13,
+      "minecraft:mangrove_sign": 38,
+      "minecraft:acacia_button": 14,
       "minecraft:cooked_beef": 5,
       "minecraft:oak_planks": 16,
       "minecraft:diamond_boots": 1,
@@ -118,9 +119,10 @@
       "minecraft:oak_sign": 7,
       "minecraft:acacia_shelf": 17,
       "minecraft:string": 3,
-      "tacz:modern_kinetic_gun": 11,
+      "tacz:modern_kinetic_gun": 16,
       "minecraft:mace": 1,
       "minecraft:acacia_log": 23,
+      "tacz:attachment": 1,
       "minecraft:wheat": 2,
       "minecraft:sandstone": 56,
       "tacz:target": 2,
@@ -129,7 +131,7 @@
       "minecraft:beetroot": 1
     },
     "minecraft:killed_by": {
-      "minecraft:player": 117
+      "minecraft:player": 118
     },
     "minecraft:mined": {
       "minecraft:redstone_wire": 1,
@@ -141,7 +143,7 @@
       "minecraft:rabbit": 1,
       "minecraft:pig": 2,
       "minecraft:villager": 2,
-      "minecraft:player": 89
+      "minecraft:player": 93
     }
   },
   "DataVersion": 4903
